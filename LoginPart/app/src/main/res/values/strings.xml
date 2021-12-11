@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Part</string>
+    <string name="login"> Login </string>
+    <string name="user"> Enter Username </string>
+    <string name="pass"> Enter Password </string>
+    <string name="forget_pass"> Forget Password </string>
+    <string name="new_acc"> Create Account </string>
+    <string name="remember_me"> Remember Me </string>
+    <string name="text"> Welcome !! To android Developement using onlick method !!!! </string>
+</resources>

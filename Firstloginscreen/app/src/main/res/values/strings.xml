@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First login screen</string>
+    <string name="sign">SIGN IN</string>
+    <string name="login">LOGIN</string>
+    <string name="working">How it Work !!</string>
+    <string name="name">i Tutor App</string>
+    <string name="subname">EDUCATION is the Ticket to SUCCESS...</string>
+    <string name="lastname"> mini project</string>
+</resources>

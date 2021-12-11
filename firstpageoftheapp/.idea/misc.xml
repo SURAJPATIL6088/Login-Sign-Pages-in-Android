@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2703125" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2703125" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2703125" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2703125" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/activity_loginactivity.xml" value="0.25" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/activity_main.xml" value="0.15307971014492755" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/activity_navigationbar.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/activity_signactivity.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/app_bar_navigationbar.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/content_navigationbar.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/fragment_gallery.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/fragment_home.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/fragment_slideshow.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/layout/nav_header_navigationbar.xml" value="0.2269021739130435" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/menu/navigationbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android_Project/firstpageoftheapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

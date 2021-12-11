@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">i Tutor Application</string>
+    <string name="name">i Tutor App</string>
+    <string name="subname">EDUCATION is the ticket to the SUCCESS...</string>
+    <string name="login">LOGIN</string>
+    <string name="sign">SIGN IN</string>
+    <string name="app_name1">Login Part</string>
+    <string name="login1"> Login </string>
+    <string name="user"> Enter Username </string>
+    <string name="pass"> Enter Password </string>
+    <string name="forget_pass"> Forget Password </string>
+    <string name="new_acc"> Create Account </string>
+    <string name="remember_me"> Remember Me </string>
+    <string name="title_activity_navigationbar">Navigationbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
